@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+layout: index.html
+title: "TEST"
+permalink: /test/
